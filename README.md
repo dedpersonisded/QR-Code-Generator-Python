@@ -1,1 +1,2 @@
-Hello. This took a very long time. I used CMU Academy code because it is the most popular visual for python. (Pygame was too hard). Input a link or whatever you want in the code (as long as it is short enough). It will make a QR code for that automatically!
+Hello. This took a very long time. I used CMU Academy code because it is the most popular visual for python. (Pygame was too hard). Input a link or whatever you want in the code (as long as it is short enough). It will make a QR code for that automatically! 
+Note: In order to use it you must get CMU Academy onto VS Code. This can be usually done with pip install cmu-graphics in the terminal. If that doesn't work, try py -m pip install cmu-graphics if on windows, and python3 -m pip install cmu-graphics on Mac
