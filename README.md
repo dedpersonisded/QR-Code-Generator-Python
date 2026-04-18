@@ -1,0 +1,1 @@
+Hello. This took a very long time. I used CMU Academy code because it is the most popular visual for python. (Pygame was too hard). Input a link or whatever you want in the code (as long as it is short enough). It will make a QR code for that automatically!
